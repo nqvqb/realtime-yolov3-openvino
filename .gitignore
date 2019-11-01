@@ -1,0 +1,15 @@
+venv
+*.tar.gz
+libdarknet.a
+libdarknet.so
+l_openvino_toolkit_p_2019.1.133/
+bazel
+OpenVINO-YoloV3/saved_model/
+OpenVINO-YoloV3/lrmodels/tiny-YoloV3/FP32/*.bin
+OpenVINO-YoloV3/lrmodels/tiny-YoloV3/FP32/*.mapping
+OpenVINO-YoloV3/lrmodels/tiny-YoloV3/FP32/*.xml
+OpenVINO-YoloV3/lrmodels/YoloV3/FP32/*.bin
+OpenVINO-YoloV3/lrmodels/YoloV3/FP32/*.mapping
+OpenVINO-YoloV3/lrmodels/YoloV3/FP32/*.xml
+OpenVINO-YoloV3/cpp/object_detection_demo_yolov3_async
+.idea/

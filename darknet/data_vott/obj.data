@@ -1,0 +1,5 @@
+classes = 1
+train  = data_vott/train.txt
+valid  = data_vott/test.txt
+names = data_vott/obj.names
+backup = backup/

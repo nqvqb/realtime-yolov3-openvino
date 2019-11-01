@@ -1,0 +1,4 @@
+data_vott/obj/5.jpg
+data_vott/obj/3.jpg
+data_vott/obj/2.jpg
+data_vott/obj/4.jpg
